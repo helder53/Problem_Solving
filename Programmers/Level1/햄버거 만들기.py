@@ -10,4 +10,3 @@ def solution(ingredient):
             for _ in range(4):
                 s.pop()
     return cnt
-  
